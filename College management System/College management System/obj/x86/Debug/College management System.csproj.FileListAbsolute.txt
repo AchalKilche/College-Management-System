@@ -1,0 +1,34 @@
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\bin\Debug\College management System.exe
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\bin\Debug\College management System.pdb
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.Form1.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.Properties.Resources.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College management System.csproj.GenerateResource.Cache
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College management System.exe
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College management System.pdb
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College management System.csprojResolveAssemblyReference.cache
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.New_Admissions.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.UpgradeSemester.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.Fees.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.StudentIndivisualDetail.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.AddTeacher.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.RemoveStudent.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.Search_Teachers.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.Search_Student.resources
+C:\Users\ADITYASK17\documents\visual studio 2010\Projects\College management System\College management System\obj\x86\Debug\College_management_System.AboutUs.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College management System.exe
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College management System.pdb
+I:\AJAY\project\College management System\College management System\bin\Debug\College management System.exe
+I:\AJAY\project\College management System\College management System\bin\Debug\College management System.pdb
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College management System.csprojResolveAssemblyReference.cache
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.AboutUs.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.AddTeacher.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.Fees.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.Form1.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.New_Admissions.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.Properties.Resources.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.RemoveStudent.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.Search_Student.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.Search_Teachers.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.StudentIndivisualDetail.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College_management_System.UpgradeSemester.resources
+I:\AJAY\project\College management System\College management System\obj\x86\Debug\College management System.csproj.GenerateResource.Cache
